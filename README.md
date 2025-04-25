@@ -23,4 +23,4 @@ Submit a pull request.
 MIT License
 
 # Contact
-For inquiries, contact your dakillalord402@gmail.com
+For inquiries, contact me dakillalord402@gmail.com
